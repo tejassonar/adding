@@ -21,22 +21,27 @@ body {
   margin: 0 auto;
   text-align: center;
 }
+*/
 
-h1 {
+.counterTitle {
   text-transform: uppercase;
+  color: #fff;
+  margin: 0 auto;
+  text-align: center;
 }
 
-*/
 .timeValue {
   list-style: none;
   display: inline-block;
   font-size: 30px;
   padding: 14px;
+  color: #fff;
 }
 .time {
   font-size: 30px;
   display: block;
   font-style: italic;
+  color: #fff;
 }
 body {
   margin: 0;
